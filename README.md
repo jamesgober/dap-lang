@@ -18,7 +18,7 @@
 
 <div align="left">
     <p>
-        <strong>dap-lang</strong> is to debuggers what lsp-lang is to language servers: the protocol engine for the Debug Adapter Protocol (framing, lifecycle, breakpoints, stepping, stack frames, scopes, variables, evaluation) over a small trait the runtime implements, so every language LexerSketch forges gets editor debugging.
+        <strong>dap-lang</strong> is to debuggers what lsp-lang is to language servers: the protocol engine for the Debug Adapter Protocol (framing, lifecycle, breakpoints, stepping, stack frames, scopes, variables, evaluation) over a small trait the runtime implements, so every language the toolchain forges gets editor debugging.
     </p>
     <br>
     <hr>
