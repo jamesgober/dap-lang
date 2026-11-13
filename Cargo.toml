@@ -19,7 +19,7 @@ readme = "README.md"
 description = "Debug Adapter Protocol scaffolding: sessions, breakpoints, stepping, stack and variable inspection."
 
 # Keywords (5 max)
-keywords = ["dap", "debugger", "protocol", "editor", "lexersketch"]
+keywords = ["dap", "debugger", "protocol", "editor"]
 
 # Categories
 categories = ["development-tools"]
